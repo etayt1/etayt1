@@ -59,18 +59,15 @@ I enjoy turning complex datasets into actionable insights and building practical
 ---
 
 ## Featured Projects
-> Pin your best repos on GitHub and mirror them here.
 
-- **Project Name 1** — one-liner impact (SQL / Python / NLP)  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME  
-- **Project Name 2** — one-liner impact (ML foundations / data pipelines)  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME  
-- **Project Name 3** — one-liner impact (dashboards / analytics)  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME  
+- **DJ Session Management System** – Backend system for managing DJ sessions and events.  
+  https://github.com/etayt1/DJ-Session-Management-System
 
----
+- **Linear Algebra Engine** – Multithreaded Java engine for parallel matrix computations.  
+  https://github.com/etayt1/linear-algebra-engine
 
-
+- **STOMP World Cup Informer** – Client-server messaging system implementing the STOMP protocol (Java server + C++ client).  
+  https://github.com/etayt1/stomp-world-cup-informer
 
 ## Contact
 📩 **etayteichman@gmail.com**
