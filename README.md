@@ -50,18 +50,6 @@ I enjoy turning complex datasets into actionable insights and building practical
 - Time management  
 - Project management mindset  
 
----
-
-## Experience
-
-**Data Analyst – Carrefour Project | Electra Target (2023)**  
-- Extracted insights from large databases to identify trends and optimize processes  
-- Analyzed operational and performance data to support decision-making  
-- Collaborated with team members to support data-driven tasks  
-
-**Tourism Account Manager | IGT – Israel & Global Travel (2021–2022)**  
-- Managed international projects from planning through execution  
-- Used metrics to track progress and optimize outcomes  
 
 ---
 
