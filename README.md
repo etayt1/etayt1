@@ -16,7 +16,7 @@ Data Analysis • ML Foundations • NLP
 ---
 
 ### Quick Links
-<a href="https://www.linkedin.com/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/etay-teichman/">LinkedIn</a> •
 <a href="mailto:etayteichman@gmail.com">Email</a>
 
 </div>
