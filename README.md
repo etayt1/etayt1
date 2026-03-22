@@ -39,10 +39,6 @@ I enjoy turning complex datasets into actionable insights and building practical
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-000000?logo=microsoftexcel&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-000000?logo=microsoft&logoColor=white)
 
 ### Strengths
 - Strong team collaboration  
